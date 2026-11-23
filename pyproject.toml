@@ -1,0 +1,17 @@
+[project]
+name = "OReilly-ask-expert-2026-dec-1-2026-12"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "jupyter",
+    "nbconvert[webpdf]",
+    "ipyparallel",
+    "gitautopush",
+    "ipython",
+    "numpy",
+    "openpyxl",
+    "pandas",
+    "plotly",
+    "pyarrow",
+    "xlrd",
+]
